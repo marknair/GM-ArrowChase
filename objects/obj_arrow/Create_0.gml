@@ -1,2 +1,1 @@
-speed = 1
-direction = 90
+alarm[1] = 60
