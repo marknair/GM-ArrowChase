@@ -1,1 +1,2 @@
-alarm[1] = 60
+speed = 10
+direction = random_range(0, 359)

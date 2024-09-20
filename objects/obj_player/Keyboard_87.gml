@@ -1,1 +1,4 @@
-y -= player_speed
+if has_collided == false {
+	y -= player_speed
+}
+
