@@ -1,3 +1,3 @@
-if 2 == 2 {
-	room_restart()
-}
+global.time_score = time_alive
+audio_stop_all()
+room_restart()
